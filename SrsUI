@@ -1,11 +1,3 @@
---[[
-    SrsUI - Modern UI Library for Roblox Exploits
-    Version: 1.0.0
-    Author: Claude
-    
-    A lightweight, stable UI library focused on performance and reliability.
-]]
-
 local SrsUI = {}
 SrsUI.__index = SrsUI
 
